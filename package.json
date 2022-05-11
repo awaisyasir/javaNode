@@ -1,0 +1,23 @@
+{
+  "name": "javanode",
+  "version": "1.0.0",
+  "description": "This repo is to contain a sample for using java in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaisyasir/javaNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaisyasir/javaNode/issues"
+  },
+  "homepage": "https://github.com/awaisyasir/javaNode#readme",
+  "dependencies": {
+    "java": "^0.12.2"
+  }
+}
